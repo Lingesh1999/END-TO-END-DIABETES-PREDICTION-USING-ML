@@ -46,11 +46,11 @@ and to deploy it on Heroku.
 - Once it get all the fields information , the prediction is displayed below the page. 
 
 ### Technologies Used  
-![Heroku]("Resources/E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\heroku logo.png")
-![scikit-learn]("Resources/E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\OIP.jpg")
-[]("Resources/E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\pandas logo.png")
-[]("Resources/E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\plotly.png")
-[]("Resources/E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\70-701501_jupyter-python-and-numpy-logos-python-jupyter-logo.png")
+![Heroku]("E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\heroku logo.png")
+![scikit-learn]("E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\OIP.jpg")
+![pandas]("E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\pandas logo.png")
+![plotly]("E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\plotly.png")
+![python-jupyter_notebook-numpy]("E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\70-701501_jupyter-python-and-numpy-logos-python-jupyter-logo.png")
 
 ### Installation 
 - Clone this repository and unzip it.
