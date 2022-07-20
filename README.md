@@ -46,7 +46,7 @@ and to deploy it on Heroku.
 - Once it get all the fields information , the prediction is displayed below the page. 
 
 ### Technologies Used  
-[]("Resources/E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\heroku logo.png")
+![]("Resources/E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\heroku logo.png")
 []("Resources/E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\OIP.jpg")
 []("Resources/E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\pandas logo.png")
 []("Resources/E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\plotly.png")
