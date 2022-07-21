@@ -50,7 +50,7 @@ and to deploy it on Heroku.
 ![scikit-learn]("E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\OIP.jpg")
 ![pandas]("E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\pandas logo.png")
 ![plotly]("E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\plotly.png")
-![python-jupyter_notebook-numpy]("E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\70-701501_jupyter-python-and-numpy-logos-python-jupyter-logo.png")
+![python-jupyter_notebook-numpy](https://github.com/Lingesh1999/END-TO-END-DIABETES-PREDICTION-USING-ML/blob/main/Resources/70-701501_jupyter-python-and-numpy-logos-python-jupyter-logo.png?raw=true)
 
 ### Installation 
 - Clone this repository and unzip it.
