@@ -46,9 +46,8 @@ and to deploy it on Heroku.
 
 ### Technologies Used  
 ![Heroku](https://github.com/Lingesh1999/END-TO-END-DIABETES-PREDICTION-USING-ML/blob/main/Resources/heroku%20logo.png?raw=true)
-![scikit-learn](https://github.com/Lingesh1999/END-TO-END-DIABETES-PREDICTION-USING-ML/blob/main/Resources/OIP.jpg?raw=true)
+![scikit-learn](https://github.com/Lingesh1999/END-TO-END-DIABETES-PREDICTION-USING-ML/blob/main/Resources/OIP.jpg?raw=true)![plotly](https://github.com/Lingesh1999/END-TO-END-DIABETES-PREDICTION-USING-ML/blob/main/Resources/plotly.png?raw=true)
 ![pandas](https://github.com/Lingesh1999/END-TO-END-DIABETES-PREDICTION-USING-ML/blob/main/Resources/pandas%20logo.png?raw=true)
-![plotly](https://github.com/Lingesh1999/END-TO-END-DIABETES-PREDICTION-USING-ML/blob/main/Resources/plotly.png?raw=true)
 ![python-jupyter_notebook-numpy](https://github.com/Lingesh1999/END-TO-END-DIABETES-PREDICTION-USING-ML/blob/main/Resources/70-701501_jupyter-python-and-numpy-logos-python-jupyter-logo.png?raw=true)
 
 ### Installation 
