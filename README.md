@@ -48,7 +48,7 @@ and to deploy it on Heroku.
 ### Technologies Used  
 ![Heroku]("E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\heroku logo.png")
 ![scikit-learn]("E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\OIP.jpg")
-![pandas]("E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\pandas logo.png")
+![pandas](https://github.com/Lingesh1999/END-TO-END-DIABETES-PREDICTION-USING-ML/blob/main/Resources/pandas%20logo.png?raw=true)
 ![plotly]("E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\plotly.png")
 ![python-jupyter_notebook-numpy](https://github.com/Lingesh1999/END-TO-END-DIABETES-PREDICTION-USING-ML/blob/main/Resources/70-701501_jupyter-python-and-numpy-logos-python-jupyter-logo.png?raw=true)
 
