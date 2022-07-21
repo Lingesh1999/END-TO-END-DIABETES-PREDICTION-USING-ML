@@ -8,7 +8,6 @@
   * [Technical Aspect](#technical-aspect)
   * [Technologies Used](#technologies-used)
   * [Installation](#installation)
-  * [Run](#run)
   * [License](#license)
 
 
@@ -46,10 +45,10 @@ and to deploy it on Heroku.
 - Once it get all the fields information , the prediction is displayed below the page. 
 
 ### Technologies Used  
-![Heroku]("E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\heroku logo.png")
-![scikit-learn]("E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\OIP.jpg")
+![Heroku](https://github.com/Lingesh1999/END-TO-END-DIABETES-PREDICTION-USING-ML/blob/main/Resources/heroku%20logo.png?raw=true)
+![scikit-learn](https://github.com/Lingesh1999/END-TO-END-DIABETES-PREDICTION-USING-ML/blob/main/Resources/OIP.jpg?raw=true)
 ![pandas](https://github.com/Lingesh1999/END-TO-END-DIABETES-PREDICTION-USING-ML/blob/main/Resources/pandas%20logo.png?raw=true)
-![plotly]("E:\Machine learning projects\project2\END-TO-END-DIABETES-PREDICTION-USING-ML\Resources\plotly.png")
+![plotly](https://github.com/Lingesh1999/END-TO-END-DIABETES-PREDICTION-USING-ML/blob/main/Resources/plotly.png?raw=true)
 ![python-jupyter_notebook-numpy](https://github.com/Lingesh1999/END-TO-END-DIABETES-PREDICTION-USING-ML/blob/main/Resources/70-701501_jupyter-python-and-numpy-logos-python-jupyter-logo.png?raw=true)
 
 ### Installation 
